@@ -40,7 +40,7 @@ header {background-color: #91c5f2;}
                min-width: 360px;}  
 
 .contenedorarq {flex-basis: 30%;
-               align-content: center;}
+               }
 .contenedorarq img { width: 100%;
                min-width: 360px;
                }
