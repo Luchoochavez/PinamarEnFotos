@@ -1,0 +1,51 @@
+.Imagenes {width: 25%;}
+#Portada {width: 50%;}
+h1 {text-align: center;}
+a {text-decoration: none;
+   color: #000000;}
+body{background-color: #91c5f2;
+     justify-content: center;
+     font-family: Arial, Helvetica, sans-serif;
+     text-align: center;
+     color: #000000;}
+li {list-style: none;}
+
+.Imagenesv{width: 40%;
+     height: auto;
+     padding: 1%;
+     border-radius: 10px;}
+
+.Imagenesh {width: 80%;
+     height: auto;  
+     padding: 1%;
+     border-radius: 10px;
+     filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2));}
+
+header {background-color: #91c5f2;}
+#menu {display: flex;
+       justify-content: space-around;
+       position: sticky;
+       top:0%;
+       background-color: #3772a6;
+       padding: 10px 0;
+     z-index: 1000;}
+#Contenedormenu {display: flex;
+             justify-content: space-around;
+             align-content: center;
+             flex-wrap: wrap;}
+.fotos_menu {flex-basis: 24%;
+          align-content: center;}
+
+.fotos_menu img { width: 100%;
+               min-width: 360px;}  
+
+.contenedorarq {flex-basis: 30%;}
+.contenedorarq img { width: 100%;
+               min-width: 400px;}
+footer {background-color: #3772a6;
+        color: #ffffff;
+        text-align: center;
+        padding: 10px 0;
+        position: relative;
+        bottom: 0;
+        width: 100%;}
