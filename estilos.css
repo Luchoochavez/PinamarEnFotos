@@ -42,7 +42,7 @@ header {background-color: #91c5f2;}
 .contenedorarq {flex-basis: 32%;
                }
 .contenedorarq img { width: 100%;
-               min-width: 380px;
+               min-width: 400px;
                }
 footer {background-color: #3772a6;
         color: #ffffff;
